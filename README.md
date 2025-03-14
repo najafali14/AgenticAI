@@ -7,6 +7,9 @@ Agents are AI programs that execute tasks autonomously. They solve problems by r
 Instead of a rigid binary definition, let's think of Agents in terms of agency and autonomy.
 
 **Level 0**: Agents with no tools (basic inference tasks).
+
 **Level 1**: Agents with tools for autonomous task execution.
+
 **Level 2**: Agents with knowledge, combining memory and reasoning.
+
 **Level 3**: Teams of specialized agents collaborating on complex workflows.
